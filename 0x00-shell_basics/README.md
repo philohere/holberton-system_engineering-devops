@@ -3,3 +3,4 @@
 1. List Contents of Directory Script
 2. Home Directory Script
 3. List Directory in Long Format Script
+4. Display Hidden Files in Directory Script
