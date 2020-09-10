@@ -1,2 +1,3 @@
 ## Learning Shell Basics
-###0.Print Working Directory Script
+### 0. Print Working Directory Script
+### 1. List Contents of Directory Script
