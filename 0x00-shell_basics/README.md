@@ -8,3 +8,4 @@
 6. Create a directory namee "holberton" in the /tmp/ directory script
 7. Move a file from one directory to another script
 8. Delete file script
+9. Delete a directory script
