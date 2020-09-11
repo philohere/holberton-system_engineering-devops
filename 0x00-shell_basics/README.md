@@ -7,3 +7,4 @@
 5. Display curent directory in long format with group IDs displayed numerically Script
 6. Create a directory namee "holberton" in the /tmp/ directory script
 7. Move a file from one directory to another script
+8. Delete file script
