@@ -11,3 +11,4 @@
 9. Delete a directory script
 10. Change the working directoy to the previous one script
 11. List all files in long formats in multiple directories
+12. Print the file type script
