@@ -9,3 +9,4 @@
 7. Move a file from one directory to another script
 8. Delete file script
 9. Delete a directory script
+10. Change the working directoy to the previous one script
