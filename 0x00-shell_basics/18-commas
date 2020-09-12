@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -almp --group-directories-first
+ls -amp --group-directories-first
